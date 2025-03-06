@@ -1,0 +1,47 @@
+Answer 1:
+Enter a string: Shivansh
+Vowels: 2
+Consonants: 6
+Digits: 0
+Special Characters: 0
+
+Answer 2:
+Enter the dimensions of the matrices (rows and columns):
+2 2
+Enter elements of Matrix 1:
+2 5 3 8
+Enter elements of Matrix 2:
+5 7 2 0
+Addition:
+7 12
+5 8
+Subtraction:
+-3 -2
+1 8
+Multiplication:
+20 14
+31 21
+
+
+Answer 3:
+
+Create Account:
+Name: Shivansh
+Account Number: 1001
+Initial Balance: 500000
+
+Choose an operation: 1. Deposit 2. Withdraw 3. Exit
+1
+Enter deposit amount: 10000
+Deposit successful! Current Balance: 510000.0
+
+Choose an operation: 1. Deposit 2. Withdraw 3. Exit
+2
+Enter withdrawal amount: 200
+Withdrawal successful! Current Balance: 509800.0
+
+Choose an operation: 1. Deposit 2. Withdraw 3. Exit
+3
+Exiting. Final Balance: 509800.0
+
+Process finished with exit code 0
